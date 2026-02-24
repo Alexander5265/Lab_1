@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\\u0443\u043D\u0438\u043A 2024\\2 \u043A\u0443\u0440\u0441\\\u042F\u041F\u042B\\1 \u043B\u0430\u0431\u0430\\Lab 1.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{909B89A0-93F4-4D6F-A7D6-C19BFDBF3E53}|Lab 1.3\\Lab 1.3.fsproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\\u0443\u043D\u0438\u043A 2024\\2 \u043A\u0443\u0440\u0441\\\u044F\u043F\u044B\\1 \u043B\u0430\u0431\u0430\\lab 1.3\\lab 1.3\\exerc3.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{909B89A0-93F4-4D6F-A7D6-C19BFDBF3E53}|Lab 1.3\\Lab 1.3.fsproj|solutionrelative:lab 1.3\\exerc3.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exerc3.fs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\\u0443\u043D\u0438\u043A 2024\\2 \u043A\u0443\u0440\u0441\\\u042F\u041F\u042B\\1 \u043B\u0430\u0431\u0430\\Lab 1.3\\Lab 1.3\\Exerc3.fs",
+              "RelativeDocumentMoniker": "Lab 1.3\\Exerc3.fs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\\u0443\u043D\u0438\u043A 2024\\2 \u043A\u0443\u0440\u0441\\\u042F\u041F\u042B\\1 \u043B\u0430\u0431\u0430\\Lab 1.3\\Lab 1.3\\Exerc3.fs",
+              "RelativeToolTip": "Lab 1.3\\Exerc3.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-24T15:37:50.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
