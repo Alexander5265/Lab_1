@@ -19,6 +19,8 @@
 
 ### Тестирование.
 
+![Image alt](https://github.com/Alexander5265/Lab_1/raw/main/1_1_test.png)
+
 # Задание 2.
 
 ## Задача 10.
