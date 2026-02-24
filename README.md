@@ -37,7 +37,7 @@
 
 ### Тестирование.
 
-
+![Image alt](https://github.com/Alexander5265/Lab_1/raw/main/1_2_test.png)
 
 # Задание 3.
 
@@ -59,3 +59,5 @@
 6. Пишем main функцию. В ней задаем два готовых списка и опираясь на них по очерди вызываем функции, вставляя свои значения. 
 
 ### Тестирование.
+
+![Image alt](https://github.com/Alexander5265/Lab_1/raw/main/1_3_test.png)
