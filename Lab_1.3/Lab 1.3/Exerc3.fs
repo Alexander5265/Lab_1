@@ -1,14 +1,14 @@
 ﻿open System
 
- (* 1. Добавление элемента в конец списка *)
+ // 1. Добавление элемента в конец списка
 let rec addElem element list =
     // head - первый эл, tail - все остальное, :: добавляет в начало списка
     match list with
-    | [] -> [ element ]   // базовый случай
-    | head :: tail -> head :: addElem element tail // меняет head элемент пока список не опустеет
+    | [] -> [ element ]   // Базовый случай
+    | head :: tail -> head :: addElem element tail // Меняет head элемент пока список не опустеет
 
 
- (* 2. Удаление первого найденного элемента *)
+ // 2. Удаление первого найденного элемента
 let rec delElem element list =
     match list with
     | [] -> []
@@ -19,7 +19,7 @@ let rec delElem element list =
             head :: delElem element tail
 
 
- (* 3. Поиск элемента в списке *)
+ // 3. Поиск элемента в списке 
 let rec contains element list =
     match list with
     | [] -> false
@@ -30,7 +30,7 @@ let rec contains element list =
             contains element tail
 
 
- (* 4. Объединение двух списков *)
+ // 4. Объединение двух списков
 let rec connect list1 list2 =
     match list1 with
     | [] -> list2
@@ -38,7 +38,7 @@ let rec connect list1 list2 =
         head :: connect tail list2
 
 
- (* 5. Получение элемента по индексу *)
+ // 5. Получение элемента по индексу
 let rec getIndex index list =
     match list with
     | [] -> failwith "Индекс вне диапазона"
@@ -49,7 +49,7 @@ let rec getIndex index list =
             getIndex (index - 1) tail
 
 
- (* Пример использования *)
+ // Пример использования
 [<EntryPoint>]
 let main _ =
     let list1 = [ 1; 2; 3 ]
