@@ -2,10 +2,9 @@
 
  // 1. Добавление элемента в конец списка
 let rec addElem element list =
-    // head - первый эл, tail - все остальное, :: добавляет в начало списка
     match list with
     | [] -> [ element ]   // Базовый случай
-    | head :: tail -> head :: addElem element tail // Меняет head элемент пока список не опустеет
+    | head :: tail -> head :: addElem element tail // Сменяет head элемент
 
 
  // 2. Удаление первого найденного элемента
