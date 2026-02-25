@@ -1,10 +1,10 @@
 ﻿open System
 
 let rec factorial n =
-    if n <= 1 then   // Факториал 0 или 1 равен 1
+    if n <= 1 then
         1
     else
-        n * factorial (n - 1)   // Формула факториала уже с рекурсией
+        n * factorial (n - 1)
 
 [<EntryPoint>]
 let main _ =
